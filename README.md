@@ -34,4 +34,9 @@ The AsoEbi DApp consists of three main smart contracts:
 - Automated payment release
 - Dispute resolution support
 
+
+Smart contract address: 0x08821cbb07d670FAB965C0cadC9bC140fc87a84d
+
+
+
 ## Smart Contract Architecture
