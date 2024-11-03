@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: hsla(210, 50%, 90%, 0.8); /* Light blue with some transparency */
+    background-image: url("https://landing-page-backend.s3.ap-south-1.amazonaws.com/blog_page_prodimages/00894449-ff02-4203-a9b3-7e223e0198c3/shutterstock_1852674685-1_lar.png");
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the image */
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.9); /* White background with some transparency */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
